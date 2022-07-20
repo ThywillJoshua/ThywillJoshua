@@ -1,6 +1,6 @@
 ### Yo! I'm Thywill 👨🏽‍💻
 
-Software developer and Sports enthusiast in Rome📍, currently building UI's at [IDLO](https://www.linkedin.com/company/international-development-law-organization/mycompany/).
+Software developer and Sports enthusiast in Rome📍, currently building UI's at [IAD srl](https://www.linkedin.com/company/iad-srl/mycompany/).
 
 ##### Tools I'm passionate about 🛠 
 
