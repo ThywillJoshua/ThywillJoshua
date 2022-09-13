@@ -1,4 +1,4 @@
-### Yo! I'm Thywill 👨🏽‍💻
+### HI! I'm Thywill 👨🏽‍💻
 
 Software developer and Sports enthusiast in Rome📍, currently building at [IAD srl](https://www.linkedin.com/company/iad-srl/mycompany/).
 
