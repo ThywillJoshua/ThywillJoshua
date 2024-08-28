@@ -1,6 +1,6 @@
 # 👋 Hello there! I'm Thywill Joshua
 
-A **Full-Stack Developer** with 5+ years of experience using **Angular, Go & AWS Serverless Enthusiast**
+A **Full-Stack Developer** with 5+ years of experience using **Angular, Go, SQL & AWS Serverless Services**
 
 ---
 
