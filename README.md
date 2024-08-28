@@ -1,15 +1,45 @@
-### HI! I'm Thywill 👨🏽‍💻
+# 👋 Hello there! I'm Thywill Joshua
 
-Software developer and Sports enthusiast in Rome📍, currently building.
+A **Full-Stack Developer** by day ☼ and a **Go & AWS Serverless Enthusiast** by night ☾
 
-##### Tools I'm passionate about 🛠 
+---
 
-![Angular](https://img.shields.io/badge/Javascript-Angular-red) ![Node](https://img.shields.io/badge/Javascript-Node-blue) ![Next](https://img.shields.io/badge/React-Next.js-white) ![SCSS](https://img.shields.io/badge/CSS-SCSS-%23C04080) [![Go]([https://img.shields.io/badge/CSS-Styled%20Components-%23C04080](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge))](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge) ![AWS](https://img.shields.io/badge/CSS-Styled%20Components-%23C04080)
+## 🛠️ Tech Stack
 
-![Typescript](https://img.shields.io/badge/Javascript-Typescript-blue) ![Rest](https://img.shields.io/badge/QueryLanguage-RESTful%20API-%2348B282) ![Redux](https://img.shields.io/badge/React-Redux-blue)
+- **Languages**: TypeScript, Go, SQL, HTML, CSS
+- **Frameworks/Libraries**: Angular, RxJS, NgRx, React
+- **Cloud & Serverless**: AWS Lambda, SQS, S3, DynamoDB, AWS API Gateway
+- **Tools**: Docker, Git, VSCode
+- **Design**: Figma, Adobe XD
 
+## 🌍 Community Involvement
 
-<!---
-ThywillJoshua/ThywillJoshua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an active contributor and teacher within the **Angular** and **Go** communities, where I share my knowledge and help other developers grow.
+
+## 💼 Professional Work
+
+- Developed custom Angular libraries and components
+- Built scalable Go microservices
+- Designed and deployed AWS Serverless architectures using Lambda, SQS, S3, and DynamoDB
+- Developed robust back-end solutions with SQL and NoSQL databases
+
+<!-- ## 🖌️ Projects
+
+- Custom Angular libraries for reusable UI components
+- Go-based microservices for high-performance back-end systems
+- AWS Serverless applications with Lambda, API Gateway, SQS, S3, and DynamoDB
+-->
+
+## 💬 Get in Touch!
+
+Feel free to reach out to me about:
+
+- Angular development and architecture
+- Go programming and microservices
+- AWS Serverless solutions with Lambda, SQS, S3, and DynamoDB
+- General web development and best practices
+
+---
+
+Looking forward to connecting with like-minded professionals and contributing to exciting projects!
+
