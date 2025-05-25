@@ -1,14 +1,14 @@
 # 👋 Hello there! I'm Thywill Joshua
 
-A **Full-Stack Developer** with 5+ years of experience using **Angular, Go, SQL & AWS Serverless Services**
+A **Full-Stack Developer** with 5+ years of experience using **Angular, Go, MongoDB & AWS Services**
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: TypeScript, Go, SQL, HTML, CSS
+- **Languages**: TypeScript, Go, MongoDB, HTML, CSS/SCSS
 - **Frameworks/Libraries**: Angular, RxJS, NgRx, React
-- **Cloud & Serverless**: AWS Lambda, SQS, S3, DynamoDB, AWS API Gateway
+- **Cloud & Serverless**: AWS Lambda, SQS, S3, DynamoDB, AWS API Gateway, EC2, Fargate
 - **Tools**: Docker, Git, VSCode
 - **Design**: Figma, Adobe XD
 
