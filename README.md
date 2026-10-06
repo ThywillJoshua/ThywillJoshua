@@ -6,7 +6,7 @@ We build reliable software for laboratories and other complex workflows. I have 
 
 ## Current focus
 
-- Laboratory workflow software
+- Laboratory & Regulatory workflow software
 - AI-assisted analysis and review
 - Production SaaS and infrastructure
 
