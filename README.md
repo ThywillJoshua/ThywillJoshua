@@ -1,58 +1,15 @@
-# 👋 Hello there! I'm Thywill Joshua
+# Hi, I’m Thywill Joshua
 
-**Software Engineer & Technical Lead** with 5+ years of experience building scalable web applications and production SaaS products. I lead small engineering teams and ship things that work.
+Founder of [RegAid](https://regaid.ch) and a software engineer based in Basel, Switzerland.
 
----
+We build reliable software for laboratories and other complex workflows. I have 6+ years of experience shipping SaaS and enterprise products and leading small engineering teams.
 
-## 🛠️ Tech Stack
+## Current focus
 
-**Frontend:** React, Next.js, Angular, TypeScript, RxJS, NgRx, Redux, Tailwind CSS
+- Laboratory workflow software
+- AI-assisted analysis and review
+- Production SaaS and infrastructure
 
-**Backend:** Go, Node.js, Java (Quarkus), MongoDB, PostgreSQL, REST APIs, WebSockets
+## Contact
 
-**Cloud:** AWS (Lambda, EC2, Fargate, S3, SQS, SNS, Bedrock, Step Functions, CloudWatch), Azure (Functions, App Services, Pipelines)
-
-**AI/ML:** LLM integration, RAG pipelines, Vector embeddings, Claude API, OpenAI API, Google Gemini
-
-**DevOps:** Docker, Terraform, GitHub Actions, Prometheus, Grafana, Loki
-
----
-
-## 🚀 Projects
-
-**[AskNara](https://asknara.com)** — AI-powered knowledge management SaaS I bootstrapped from scratch. Go backend, Angular frontend, MongoDB, Stripe billing. It has paying customers.
-
-**Claradocs** — AI-first documentation platform for product teams. Currently in development.
-
----
-
-## 💼 Experience Highlights
-
-- Lead Engineer at Creaholic, leading a team of 4 engineers
-- Led 6 frontend engineers at ItalDesign building React components for Audi's MMI infotainment system
-- Delivered enterprise solutions for 3M+ users at Accenture/Allianz
-- Built OIDC authentication library with PKCE flow and multi-provider SSO
-
----
-
-## 📜 Certifications
-
-- HashiCorp Certified: Terraform Associate
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-
----
-
-## 💬 Get in Touch
-
-I'm happy to chat about:
-- Angular, React, or Go development
-- Building and scaling SaaS products
-- RAG pipelines and LLM integration
-- AWS/Azure architecture
-- Leading engineering teams
-
----
-
-📫 **Email:** thywilljoshua@gmail.com
-🔗 **LinkedIn:** [linkedin.com/in/thywill](https://linkedin.com/in/thywill)
-🌐 **AskNara:** [asknara.com](https://asknara.com)
+[Website](https://regaid.ch) · [LinkedIn](https://linkedin.com/in/thywill) · [Email](mailto:thywill@regaid.ch)
